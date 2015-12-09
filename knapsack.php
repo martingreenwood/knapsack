@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Knapsack
-Description: This plugin makes some minor adjustments to WodPress for better experience.
+Description: This plugin makes some minor adjustments to WordPress for a better experience.
 Plugin URI: https://github.com/pixelpudu/knapsack
 Version: 0.0.1
 Author: Martin Greenwood
