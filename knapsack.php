@@ -1,30 +1,31 @@
 <?php
 /*
-Plugin Name: 	Knapsack
-Description: 	Utilities for a better wordpress experience
-Version: 		0.0.1
-Author: 		Martin Greenwood
-Author URI: 	http://www.pixelpudu.com
-Text Domain: 	knapsack
-Domain Path:	/languages
-License: 		GPL2
-License URI:	http://www.gnu.org/licenses/gpl-2.0.html
+Plugin Name: Knapsack
+Description: This plugin makes some minor adjustments to WodPress for better experience.
+Plugin URI: https://github.com/pixelpudu/knapsack
+Version: 0.0.1
+Author: Martin Greenwood
+Author URI: https://profiles.wordpress.org/pixelpudu/
+Text Domain: knapsack
+Domain Path: /languages
+License: GPL2
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-	Copyright 2015  Pixel Pudu  (email : office@pixelpudu.com)
+Copyright 2015  Pixel Pudu  (email : office@pixelpudu.com)
 
-	This program is free software; you can redistribute it and/or modify
-	it under the terms of the GNU General Public License, version 2,
-	as published by the Free Software Foundation.
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License, version 2,
+as published by the Free Software Foundation.
 
-	This program is distributed in the hope that it will be useful,
-	but WITHOUT ANY WARRANTY; without even the implied warranty of
-	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-	GNU General Public License for more details.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
 
-	The license for this software can likely be found here:
-	http://www.gnu.org/licenses/gpl-2.0.html
-	If not, write to the Free Software Foundation Inc.
-	51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
+The license for this software can likely be found here:
+http://www.gnu.org/licenses/gpl-2.0.html
+If not, write to the Free Software Foundation Inc.
+51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
 */
 
 

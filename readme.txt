@@ -1,10 +1,10 @@
-Knapsack
+=== Knapsack ===
 Contributors: pixelpudu
 Donate link: https://www.paypal.me/martingreenwood
 Tags: utilities, tidyup, emoji
 Requires at least: 4.3 
-Tested up to: 4.3
-Stable tag: 4.3
+Tested up to: 4.4
+Stable tag: 0.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,11 +16,11 @@ This plugin makes some minor adjustments to wordpress, these are things I do eve
 
 It does the following:
 
-*	Removes the emoji CSS from the head.
-*	Removes the RSD links from the head.
-*	Removes the wp generator from the head.
-*	Removes the feed links from the head.
-*	Removes the recent comment CSS from the head.
+* Removes the emoji CSS from the head.
+* Removes the RSD links from the head.
+* Removes the wp generator from the head.
+* Removes the feed links from the head.
+* Removes the recent comment CSS from the head.
 
 == Installation ==
 
@@ -32,15 +32,16 @@ It does the following:
 
 = Why? =
 
-Because I font like repeating things over and over again --automation for the win!
+Because I don't like repeating things over and over again - automation for the win!
 
 == Changelog ==
 
-= 0.5 =
+= 0.0.1 =
+
 First release includes base functions.
 
-*   Removes the emoji crap from the head.
-*   Removes the RSD links from the head.
-*	Removes the wp generator from the head.
-*   Removes the feed links from the head.
-*	Removes the recent comment CSS from the head.
+* Removes the emoji crap from the head.
+* Removes the RSD links from the head.
+* Removes the wp generator from the head.
+* Removes the feed links from the head.
+* Removes the recent comment CSS from the head.
