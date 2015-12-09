@@ -8,7 +8,7 @@ Stable tag: 0.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin makes some minor adjustments to WodPress for better experience.
+This plugin makes some minor adjustments to WordPress.
 
 == Description ==
 
